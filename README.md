@@ -1,30 +1,195 @@
-<h1 align="center">Hi 👋, I'm Inam Ullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inamullah06&label=Profile%20views&color=0e75b6&style=flat" alt="inamullah06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inamullah06" alt="inamullah06" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Skill Swap**
-
-- 🌱 I’m currently learning **Cyber Secuity**
-
-- 💬 Ask me about **Android Developer**
-
-- 📫 How to reach me **inamullah4938@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/inamullah4938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inamullah4938" height="30" width="40" /></a>
+👋 Hi, I'm Inam Ullah
+🎓 BS Computer Science Student | 📱 Mobile App Developer | 💻 Software Developer
+<p>
+  <a href="https://github.com/inamullah06">
+    <img src="https://img.shields.io/badge/GitHub-inamullah06-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:inamullah4938@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/inamullah4938">
+    <img src="https://img.shields.io/badge/Instagram-inamullah4938-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=inamullah06&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inamullah06&show_icons=true&locale=en&layout=compact" alt="inamullah06" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inamullah06&show_icons=true&locale=en" alt="inamullah06" /></p>
+👨‍💻 About Me
+I'm a BS Computer Science student interested in building practical software and mobile applications that solve real-world problems.
+- 🔭 Currently working on SkillSwap AI
+- 📱 Interested in Flutter, Dart & Mobile App Development
+- 🔥 Working with Firebase for application backends
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🔐 Currently learning Cybersecurity
+- 🧠 Improving my programming, problem-solving and software engineering skills
+- 🚀 Learning by building projects and experimenting with new technologies
+Code → Learn → Build → Improve → Repeat.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inamullah06&" alt="inamullah06" /></p>
+🎯 Current Focus
+<table>
+<tr>
+<td width="50%">
+
+📱 Mobile Development
+- Flutter
+- Dart
+- Android
+- Firebase
+- UI/UX
+</td>
+<td width="50%">
+
+🤖 Emerging Technologies
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Cloud Technologies
+- Software Engineering
+</td>
+</tr>
+</table>
+
+🚀 Featured Projects
+🔄 SkillSwap AI
+An intelligent peer-to-peer skill exchange mobile application.
+A Flutter-based project where users can list skills they can teach and skills they want to learn. The application is designed to recommend suitable skill-exchange partners using a simple AI matching approach.
+Planned technologies: Flutter Dart Firebase Python TF-IDF Cosine Similarity
+Status: 🟡 In Development
+🎮 Tic-Tac-Toe
+A simple game project demonstrating programming fundamentals, application logic and interactive UI development.
+Technology: Programming / UI Development
+<a href="https://github.com/inamullah06/Tic-Tac-Toe">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inamullah06&repo=Tic-Tac-Toe&theme=tokyonight&hide_border=true" alt="Tic-Tac-Toe repository"/>
+</a>
+
+🛠️ Technologies & Tools
+💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,python,java,kotlin,cpp,html,css&perline=8" alt="Programming languages"/>
+</p>
+
+📱 Mobile & Application Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,android,firebase&perline=8" alt="Mobile development"/>
+</p>
+
+🌐 Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,dotnet&perline=8" alt="Web and backend technologies"/>
+</p>
+
+🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=8" alt="Databases"/>
+</p>
+
+☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,figma&perline=8" alt="Tools and platforms"/>
+</p>
+
+🎨 Other Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,blender,unity,photoshop,illustrator&perline=8" alt="Other tools"/>
+</p>
+
+📊 GitHub Statistics
+<div align="center">
+
+<a href="https://github.com/inamullah06">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=inamullah06&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Inam Ullah GitHub statistics"/>
+</a>
+<a href="https://github.com/inamullah06">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamullah06&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</a>
+
+</div>
+
+📈 Contribution Streak
+<div align="center">
+
+<a href="https://github.com/inamullah06">
+  <img src="https://streak-stats.demolab.com/?user=inamullah06&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+
+</div>
+
+📉 Contribution Activity & Commit Graph
+<div align="center">
+
+<a href="https://github.com/inamullah06">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inamullah06&theme=tokyo-night&hide_border=true&area=true&custom_title=Inam%20Ullah%27s%20Contribution%20Activity" alt="GitHub contribution activity graph"/>
+</a>
+
+</div>
+
+⭐ GitHub Highlights
+<div align="center">
+
+<a href="https://github.com/inamullah06">
+  <img src="https://img.shields.io/github/stars/inamullah06?style=for-the-badge&logo=github&label=Stars%20Received" alt="Stars received"/>
+</a>
+<a href="https://github.com/inamullah06?tab=repositories">
+  <img src="https://img.shields.io/github/repos/inamullah06?style=for-the-badge&logo=github&label=Public%20Repositories" alt="Public repositories"/>
+</a>
+<a href="https://github.com/inamullah06?tab=followers">
+  <img src="https://img.shields.io/github/followers/inamullah06?style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
+</a>
+
+</div>
+
+These badges are generated dynamically, so repository and profile counts stay up to date instead of becoming stale.
+
+🏆 GitHub Trophies
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=inamullah06&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+🌱 Currently Learning
+Flutter & Dart          ███████████████░░░  Learning & Building
+Firebase                ██████████████░░░░  Building Projects
+AI / Machine Learning   ███████████░░░░░░░  Exploring
+Cybersecurity           █████████░░░░░░░░░  Learning
+Software Engineering    ████████████░░░░░░  Improving
+📚 My Development Journey
+Programming Fundamentals
+        ↓
+Web & Application Development
+        ↓
+Android & Flutter Development
+        ↓
+Firebase & Backend Integration
+        ↓
+AI-Powered Applications
+        ↓
+Cybersecurity & Advanced Development
+        ↓
+Build • Deploy • Learn • Repeat 🚀
+🤝 Let's Connect
+<div align="center">
+
+<a href="mailto:inamullah4938@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://instagram.com/inamullah4938">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://github.com/inamullah06">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+</div>
+
+<div align="center">
+
+💡 "The best way to learn programming is to build."
+⭐ Thanks for visiting my profile!
+</div>
